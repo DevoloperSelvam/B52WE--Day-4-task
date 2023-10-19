@@ -1,0 +1,32 @@
+{
+    "name": "G.Selvam",
+    "email": "selvamdon761@gmail.com",
+    "phone": "7871118807",
+    "address": {
+        "street": "Gangai amman kovil street",
+        "city": "Sriperumbudur",
+        "state": "Tamilnadu",
+        "zip": "602105"
+    },
+    "skills": [
+        "Natural Language Processing",
+        "Automotive technician",
+        "Drawing"
+    ],
+    "experience": [
+        {
+            "job_title": "Quality incharge",
+            "company": "FCC Clutch technology",
+            "start_date": "2022-09-05",
+            "end_date": "Present"
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.com",
+            "institution": "MGR University",
+            "start_date": "2018-01-01",
+            "end_date": "2021-01-01"
+        }
+    ]
+}
